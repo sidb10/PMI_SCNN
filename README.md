@@ -2,9 +2,9 @@
 
 EZ PMI --> Projet de Maturbation Intense <3 
 
-S :beer:  :beer: 
+Q :beer:  :beer: 
 
-S :beer:  :beer: 
+T :beer:  :beer: 
 
 S :beer:  :beer: 
 
