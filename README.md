@@ -33,3 +33,5 @@ https://medium.com/@manivannan_data/how-to-train-multiple-objects-in-yolov2-usin
 https://medium.com/@manivannan_data/how-to-train-yolov2-to-detect-custom-objects-9010df784f36
 
 
+Implementation Yolov3 tf2:
+https://github.com/zzh8829/yolov3-tf2
