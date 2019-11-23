@@ -2,6 +2,8 @@
 
 Liens utilisés pour le projet:
 
+https://hal-normandie-univ.archives-ouvertes.fr/hal-02114561/document
+
 http://papers.nips.cc/paper/6935-spherical-convolutions-and-their-application-in-molecular-modelling.pdf
 
 https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.autoplus.fr/actualite/Insolite-Google-immatriculation-image-technologie-1543623.amp.html&ved=2ahUKEwiEvc6h3L_lAhVLhRoKHa5jCx0QiJQBMAF6BAgGEAg&usg=AOvVaw2tBny7XRBnJtzIGx63qH9D&ampcf=1
