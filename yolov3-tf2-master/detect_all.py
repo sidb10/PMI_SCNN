@@ -23,7 +23,7 @@ def main(_argv):
     
     yolo = YoloV3(classes=2)
     
-    yolo.load_weights('./checkpoints/yolov3_train_26.tf')
+    yolo.load_weights('./checkpoints/yolov3.tf')
     logging.info('weights loaded')
 
     class_names = [c.strip() for c in open('./data/car.names').readlines()]
